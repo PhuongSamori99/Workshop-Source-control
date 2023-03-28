@@ -5,6 +5,8 @@
 VAR
 	//cmt 1
 	bTest_1 :BOOL;
+	//cmt 2
+	bTest_2 :BOOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
